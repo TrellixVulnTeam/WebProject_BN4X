@@ -1,0 +1,91 @@
+.header{
+  text-align: center;
+  color: #ff5d55;
+  font-size: 30px;
+  font-family: Aclonica;
+}
+.wrapper {
+  text-align: center;
+}
+
+.wrapper2{
+  text-align: center;
+  margin-top: 25px;
+}
+
+.button {
+
+  position: center;
+  background-color: Black;
+  border-radius: 20px;
+  border: 4px double #cccccc;
+  color: #eeeeee;
+  font-size: 28px;
+  width: 300px;
+  cursor: pointer;
+}
+
+#iconImage{
+
+}
+.goButton{
+
+  height: 31px;
+
+}
+.Icon-inside {
+  position:relative;
+}
+
+.textinput{
+width:254px;
+  height: 25px;
+}
+.imageZip{
+  position:absolute;
+  top:159px;
+margin-left: -32px;
+  height: 30px;
+  width: 30px;
+}
+.imageSample{
+  margin-left:-350px;
+
+}
+.venuebody{
+  text-align: center;
+}
+
+.imageMap{
+  margin-left: 75%;
+  margin-top: -30px;
+}
+.locationName{
+  margin-left: 20%;
+  width: 50%;
+}
+.item {
+  background: #fff4db;;
+  flex-basis: 100px;
+  height: 120px;
+  margin: 5px;
+}
+.imageFork{
+  width: 50px;
+  height: 50px;
+  margin-left: -70px;
+  margin-bottom: -80px;
+}
+
+.container{
+  height: 70px;
+}
+.insideBox{
+  margin-top: -5%;
+  margin-left: 78%;
+  width: 30px;
+
+}
+
+
+
